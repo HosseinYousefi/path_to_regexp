@@ -1,7 +1,6 @@
 name: path_to_regexp
 version: 0.4.0-nullsafety.0
 description: Converts a path such as '/user/:id' into a regular expression.
-author: Leon Senft <leonsenft@google.com>
 homepage: https://github.com/leonsenft/path_to_regexp
 
 environment:
