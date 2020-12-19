@@ -1,3 +1,7 @@
+## 0.4.0-nullsafety.0
+
+* Migrate to null safety.
+
 ## 0.3.0
 
 * Added an option to create case insensitive regular expressions.
